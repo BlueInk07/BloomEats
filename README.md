@@ -2,9 +2,9 @@
 <p align="center">Your online food ordering experience made simple and elegant 🍔🥗</p>  
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/your-username/BloomEats?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/your-username/BloomEats?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/your-username/BloomEats?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/BlueInk07/BloomEats?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/BlueInk07/BloomEats?style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/BlueInk07/BloomEats?style=for-the-badge" />
 </p>
 
 ---
@@ -13,7 +13,6 @@
 - Responsive design (desktop + mobile)  
 - Menu browsing & add-to-cart flow  
 - Modern UI with animations  
-- Easy-to-navigate layout  
 
 ---
 
@@ -26,5 +25,5 @@
 
 ## 📂 Getting Started
 ```bash
-git clone https://github.com/your-username/BloomEats.git
+git clone https://github.com/BlueInk07/BloomEats.git
 cd BloomEats
